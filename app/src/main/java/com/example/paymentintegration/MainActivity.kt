@@ -41,8 +41,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-
-    fun requestPayment() {
+    private fun requestPayment() {
         binding.btnPay.visibility = View.GONE
         val totalAmountToBePaid = 10L
         val shippingCostCents = 9L
