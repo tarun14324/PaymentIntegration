@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Payment Integration</string>
+    <string name="enter_amount_to_be_payed">Enter amount to be payed</string>
+    <string name="make_payment">Make Payment</string>
+</resources>
